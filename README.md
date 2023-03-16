@@ -63,10 +63,12 @@ Invoked with no arguments, the example program will start a command console:
     8
 
 Note that the cmd parser will match on token substrings:
+
     con> m n 9
     -9
 
 But will treat ambiguous entries as invalid commands:
+
     con> math s 5 3
     Unknown command: math s 5 3
     Commands:
