@@ -1,4 +1,5 @@
 /* SPDX-License-Identifier: MIT */
+/* Copyright (c) 2023, Russ Dill <russ.dill@gmail.com> */
 #ifndef UC_IO_H
 #define UC_IO_H
 

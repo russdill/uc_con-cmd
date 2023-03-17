@@ -1,4 +1,9 @@
 /* SPDX-License-Identifier: MIT */
+/*
+ * uc-cmd.c - Command tokenizer/runner for microcontrollers.
+ *
+ * Copyright (c) 2023, Russ Dill <russ.dill@gmail.com>
+ */
 #include <string.h>
 #include <stdint.h>
 

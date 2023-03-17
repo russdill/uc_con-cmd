@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2023, Russ Dill <russ.dill@gmail.com>
+
 CFLAGS = -O2 -Werror -Wall -g
 CC = gcc
 

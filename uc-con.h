@@ -1,4 +1,9 @@
 /* SPDX-License-Identifier: MIT */
+/*
+ * uc-con.h - Line-editing console for microcontrollers.
+ *
+ * Copyright (c) 2023, Russ Dill <russ.dill@gmail.com>
+ */
 #ifndef UC_CON_H
 #define UC_CON_H
 
