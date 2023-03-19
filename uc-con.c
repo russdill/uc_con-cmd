@@ -95,7 +95,7 @@ static void uc_con_new(void)
 /* Print the console prompt */
 static void uc_con_prompt(void)
 {
-	uc_io_puts(UC_CON_PROMPT);
+	uc_io_puts("\r" UC_CON_PROMPT);
 }
 
 /* Cancel editing the current line and reset it to the original text */

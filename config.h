@@ -57,7 +57,7 @@
 #define UC_CON_CMD_BUFFER	8
 
 /* Command prompt to print */
-#define UC_CON_PROMPT		"\rcon> "
+#define UC_CON_PROMPT		"con> "
 
 #define UC_IO_STDOUT
 /* #define UC_IO_PUTCHAR */
